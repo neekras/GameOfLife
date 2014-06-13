@@ -1,3 +1,10 @@
+/* GoLInterface.java
+ * Author: Nick Hampshire
+ * Website: nhampshire.com
+ * Description:
+ * Provides an interface when needed, runs instance of Game of Life.
+ */
+
 import java.util.*;
 import javax.swing.*;
 import java.awt.*;
