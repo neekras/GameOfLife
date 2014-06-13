@@ -1,3 +1,10 @@
+/* GoL.java
+ * Author: Nick Hampshire
+ * Website: nhampshire.com
+ * Description:
+ * Runs game of life in a JFrame
+ */
+
 import java.io.*;
 import java.util.*;
 
