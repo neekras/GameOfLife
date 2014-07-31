@@ -1,8 +1,8 @@
-/* GoLInterface.java
+/* GoL.java
  * Author: Nick Hampshire
  * Website: nhampshire.com
  * Description:
- * Provides an interface when needed, runs instance of Game of Life.
+ * Runs game of life in a JFrame
  */
 
 import java.util.*;
